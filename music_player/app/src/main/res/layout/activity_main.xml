@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/colorPrimaryDark">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="57dp"
+        android:layout_marginLeft="57dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="53dp"
+        android:layout_marginRight="53dp"
+        android:layout_marginBottom="295dp"
+        app:srcCompat="@drawable/ride" />
+
+    <Button
+        android:id="@+id/button_play"
+        android:layout_width="112dp"
+        android:layout_height="112dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="150dp"
+        android:layout_marginRight="150dp"
+        android:layout_marginBottom="107dp"
+        android:background="@drawable/play"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/button_stop"
+        android:layout_width="78dp"
+        android:layout_height="73dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="51dp"
+        android:layout_marginRight="51dp"
+        android:layout_marginBottom="127dp"
+        android:background="@drawable/stop" />
+
+    <Button
+        android:id="@+id/button_pause"
+        android:layout_width="78dp"
+        android:layout_height="73dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="280dp"
+        android:layout_marginRight="280dp"
+        android:layout_marginBottom="127dp"
+        android:background="@drawable/pause" />
+
+    <TextView
+        android:id="@+id/textView_01"
+        android:layout_width="wrap_content"
+        android:layout_height="69dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="13dp"
+        android:layout_marginRight="13dp"
+        android:layout_marginBottom="237dp"
+        android:text="Ride-Twenty One Pilots"
+        android:textSize="36sp"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>
