@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="convert_km_to_miles">Convert KM to Miles</string>
+    <string name="miles">Miles</string>
+    <string name="km">KM</string>
+    <string name="convert_miles_to_km">Convert Miles to KM</string>
+    <string name="clear">CLEAR</string>
+</resources>
