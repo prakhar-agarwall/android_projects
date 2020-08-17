@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">checkbox</string>
+    <string name="which_electronic_appliance_n_t_t_tdo_you_want_to_turn_on">Which electronic appliance \n\t\t\tdo you want to turn on?</string>
+    <string name="laptop">Laptop</string>
+    <string name="pc">PC</string>
+    <string name="xbox_360">Xbox 360</string>
+    <string name="show">SHOW</string>
+</resources>
