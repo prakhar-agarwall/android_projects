@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">alert_dialogue</string>
+    <string name="show_alert_dialogue">Show Alert Dialogue</string>
+    <string name="warning">Warning!</string>
+    <string name="sure">Are you sure you want to delete all photos?</string>
+    <string name="yes">Yes</string>
+    <string name="no">Later</string>
+</resources>
