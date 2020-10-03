@@ -13,8 +13,10 @@
         android:layout_width="371dp"
         android:layout_height="675dp"
         android:layout_alignParentTop="true"
-        tools:layout_editor_absoluteX="17dp"
-        tools:layout_editor_absoluteY="29dp">
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
 
         <RadioButton
             android:id="@+id/radioButton_blue"
