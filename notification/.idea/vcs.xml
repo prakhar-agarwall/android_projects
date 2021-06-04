@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/All AppD Projects/onserr/onserrrr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidStudioProjects/Flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppDev Theory/KOTLIN Sample Apps/android-kotlin-fundamentals-apps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_projects/android_projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/appd/google_sign_in" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/appd/spotify/iSpotify" vcs="Git" />
+  </component>
+</project>
